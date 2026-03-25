@@ -13,6 +13,7 @@ Missing Permissions-Policy HeaderGovernment Web Portal🔵 LowMissing Permission
 
 Each report targets a separate, independent application. All domain names, IP addresses, usernames, and credentials are fully redacted in all published versions.
 
+https://dhivagar2007.github.io/my-docs/vulnerability_report.html#blog
 
 Responsible Disclosure
 
