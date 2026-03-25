@@ -24,5 +24,5 @@ Reports are shared here strictly for educational and portfolio purposes
 
 
 Contact
-Blog: medium.com/@dhivagar
-LinkedIn: linkedin.com/in/dhivagar
+Blog: [medium.com/@dhivagar](https://medium.com/@dhivagarvelu10)
+LinkedIn: https://www.linkedin.com/in/dhivagar-velu-920731314/
